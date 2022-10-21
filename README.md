@@ -30,9 +30,9 @@
 <a href="https://www.codewars.com/users/ctzou" target="_blank"><img src="https://www.codewars.com/users/ctzou/badges/large"></a></p>
 </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctzou&show_icons=true&locale=en&layout=compact" alt="ctzou" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctzou&show_icons=true&locale=en&layout=compact" alt="ctzou" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ctzou&show_icons=true&locale=en" alt="ctzou" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ctzou&show_icons=true&locale=en" alt="ctzou" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctzou&" alt="ctzou" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctzou&" alt="ctzou" /></p>
 
