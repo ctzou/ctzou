@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Cindy Tzou</h2>
 <h4 align="center">A passionate and curious Full-Stack Developer residing in Taipei City</h4>
 
-- 🔭 I’m currently working on [fanEat, a user-curated restaurant menu translation app](https://github.com/ctzou/fanEat)
+- 🔭 I’m currently working on [fanEat](https://github.com/ctzou/fanEat), a user-curated restaurant menu translation app
 - 🌱 I’m currently learning **React**
 - 😄 Pronouns: She / Her
 - 👨‍💻 My portfolio is available at [ctzou.netlify.app](ctzou.netlify.app)
